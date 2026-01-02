@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Luísa! 👋
 
-<!--
-**luisa-leona/luisa-leona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mestranda em Sistemas de Computação e Desenvolvedora focada em ecossistema Linux e Automação.
 
-Here are some ideas to get you started:
+### 🛠️ Sobre mim
+- 🎓 Atualmente dedicando meu tempo à pesquisa acadêmica e ao desenvolvimento de ferramentas para otimização de fluxo de trabalho.
+- 🐧 Entusiasta de Software Livre e usuária de Linux (distro Ubuntu).
+- 💻 Minhas ferramentas principais: Python, Bash, Vim e Git.
+- 🏳️‍🌈 Mulher trans construindo autonomia através da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Projetos em destaque
+- **[luisa-env-setup](https://github.com/SEU_USUARIO/luisa-env-setup)**: Automação de ambiente de trabalho.
+- **[mestrado-data-organizer](https://github.com/SEU_USUARIO/mestrado-data-organizer)**: Organização inteligente de arquivos de pesquisa.
+
+---
+*Transformando café e código em ciência.*
