@@ -1,11 +1,11 @@
 # Olá, eu sou a Luísa! 👋
 
-Mestranda em Sistemas de Computação e Desenvolvedora focada em ecossistema Linux e Automação.
+Mestranda em Sistemas de Computação e Desenvolvedora focada em otimização de ferramentas de IA.
 
 ### 🛠️ Sobre mim
 - 🎓 Atualmente dedicando meu tempo à pesquisa acadêmica e ao desenvolvimento de ferramentas para otimização de fluxo de trabalho.
 - 🐧 Entusiasta de Software Livre e usuária de Linux (distro Ubuntu).
-- 💻 Minhas ferramentas principais: Python, Bash, Vim e Git.
+- 💻 Minhas ferramentas principais: C++, Python, Bash, Vim e Git.
 - 🏳️‍⚧ Mulher trans construindo autonomia através da tecnologia.
 
 ### 🏗️ Projetos em destaque
