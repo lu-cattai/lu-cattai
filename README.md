@@ -9,8 +9,8 @@ Mestranda em Sistemas de Computação e Desenvolvedora focada em otimização de
 - 🏳️‍⚧ Mulher trans construindo autonomia através da tecnologia.
 
 ### 🏗️ Projetos em destaque
-- **[luisa-env-setup](https://github.com/SEU_USUARIO/luisa-env-setup)**: Automação de ambiente de trabalho.
-- **[mestrado-data-organizer](https://github.com/SEU_USUARIO/mestrado-data-organizer)**: Organização inteligente de arquivos de pesquisa.
+- **[luisa-env-setup](https://github.com/lu-cattai/luisa-env-setup)**: Automação de ambiente de trabalho.
+- **[mestrado-data-organizer](https://github.com/lu-cattai/mestrado-data-organizer)**: Organização inteligente de arquivos de pesquisa.
 
 ---
 *Transformando café e código em ciência.*
