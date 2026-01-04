@@ -1,16 +1,28 @@
-# Olá, eu sou a Luísa! 👋
+# Hi there, I'm [Seu Nome Atual] 👋
 
-Mestranda em Sistemas de Computação e Desenvolvedora focada em otimização de ferramentas de IA.
+**Software Engineer | AI Researcher | Master's Candidate at UNESP**
 
-### 🛠️ Sobre mim
-- 🎓 Atualmente dedicando meu tempo à pesquisa acadêmica e ao desenvolvimento de ferramentas para otimização de fluxo de trabalho.
-- 🐧 Entusiasta de Software Livre e usuária de Linux (distro Ubuntu).
-- 💻 Minhas ferramentas principais: C++, Python, Bash, Vim e Git.
-- 🏳️‍⚧ Mulher trans construindo autonomia através da tecnologia.
+I am a Computer Scientist focused on the intersection of **High-Performance Computing** and **Generative AI**. Currently, my work centers on the optimization of **Large Language Model (LLM) inference**, specifically regarding memory management and efficiency in resource-constrained environments.
 
-### 🏗️ Projetos em destaque
-- **[luisa-env-setup](https://github.com/lu-cattai/luisa-env-setup)**: Automação de ambiente de trabalho.
-- **[mestrado-data-organizer](https://github.com/lu-cattai/mestrado-data-organizer)**: Organização inteligente de arquivos de pesquisa.
+### 🛠 Tech Stack & Expertise
+
+- **Languages:** Python (Advanced), JavaScript/TypeScript (ES6+), C++ (Performance-focused).
+- **AI & Data:** LLMs (Llama, OpenAI API), LangChain, RAG Pipelines, NLP, and Inference Optimization.
+- **Frontend:** React.js, Styled Components, Redux, and modern Web APIs.
+- **Infrastructure:** Linux, Git, and High-Performance Computing (HPC) environments.
+
+### 🔬 Research & Projects
+
+- **Master’s Thesis (In Progress):** Optimizing LLM inference through advanced memory management strategies to enable high-quality AI in limited-resource hardware.
+- **Scientific Publication:** *Analysis of the Effectiveness of Language Models in Code Optimization* (ERAD-SP 2024). 
+- **Full-stack Development:** Built a comprehensive web platform for scientific information democratization using **React.js** and **Node.js**.
+
+> **Note:** Most of my recent technical work is hosted in private repositories due to academic research agreements and ongoing R&D projects.
+
+### 📫 How to reach me
+
+- **Location:** Rio Claro, SP - Brazil (Open to 100% Remote roles)
+- **LinkedIn:** https://www.linkedin.com/in/lu%C3%ADsa-cattai-02657b3a1/?locale=en_US
 
 ---
-*Transformando café e código em ciência.*
+*"Bridging the gap between academic research and scalable software engineering."*
