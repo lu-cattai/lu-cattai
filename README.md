@@ -1,4 +1,4 @@
-# Hi there, I'm [Seu Nome Atual] 👋
+# Hi there, I'm Luísa 👋
 
 **Software Engineer | AI Researcher | Master's Candidate at UNESP**
 
