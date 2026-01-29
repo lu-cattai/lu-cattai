@@ -19,9 +19,6 @@ I am a Computer Scientist focused on the intersection of **High-Performance Comp
 
 > **Note:** Most of my recent technical work is hosted in private repositories due to academic research agreements and ongoing R&D projects.
 
-### 🚀 Featured Lab
-- llm-engineering-essentials: A technical sandbox demonstrating C++/Python interoperability, memory benchmarking, and agentic orchestration patterns.
-
 ### 📫 How to reach me
 
 - **Location:** Rio Claro, SP - Brazil (Open to 100% Remote roles)
